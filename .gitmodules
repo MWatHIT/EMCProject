@@ -19,12 +19,6 @@
 [submodule "src/emc.project"]
 	path = src/emc.project
 	url = git@github.com:yanghaa/emc.project.git
-[submodule "rc/collective.filepreviewbehavior"]
-	path = rc/collective.filepreviewbehavior
-	url = git@github.com:yanghaa/collective.filepreviewbehavior.git
-[submodule "rc/collective.gtags"]
-	path = rc/collective.gtags
-	url = git@github.com:yanghaa/collective.gtags.git
 [submodule "src/emc.memberArea"]
 	path = src/emc.memberArea
 	url = git@github.com:yanghaa/emc.memberArea.git

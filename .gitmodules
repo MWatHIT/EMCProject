@@ -37,3 +37,9 @@
 [submodule "src/mockup"]
 	path = src/mockup
 	url = git@github.com:yanghaa/mockup.git
+[submodule "src/collective.gtags"]
+	path = src/collective.gtags
+	url = git@github.com:yanghaa/collective.gtags.git
+[submodule "src/collective.filepreviewbehavior"]
+	path = src/collective.filepreviewbehavior
+	url = git@github.com:yanghaa/collective.filepreviewbehavior.git

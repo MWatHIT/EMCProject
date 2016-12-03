@@ -1,0 +1,39 @@
+[submodule "src/pas.plugins.sqlalchemy"]
+	path = src/pas.plugins.sqlalchemy
+	url = git@github.com:collective/pas.plugins.sqlalchemy.git
+[submodule "src/collective.saconnect"]
+	path = src/collective.saconnect
+	url = git@github.com:collective/collective.saconnect.git
+[submodule "src/plonetheme.barceloneta"]
+	path = src/plonetheme.barceloneta
+	url = git@github.com:yanghaa/plonetheme.barceloneta.git
+[submodule "src/emc.bokeh"]
+	path = src/emc.bokeh
+	url = git@github.com:yanghaa/emc.bokeh.git
+[submodule "src/emc.policy"]
+	path = src/emc.policy
+	url = git@github.com:yanghaa/emc.policy.git
+[submodule "src/emc.theme"]
+	path = src/emc.theme
+	url = git@github.com:yanghaa/emc.theme.git
+[submodule "src/emc.project"]
+	path = src/emc.project
+	url = git@github.com:yanghaa/emc.project.git
+[submodule "rc/collective.filepreviewbehavior"]
+	path = rc/collective.filepreviewbehavior
+	url = git@github.com:yanghaa/collective.filepreviewbehavior.git
+[submodule "rc/collective.gtags"]
+	path = rc/collective.gtags
+	url = git@github.com:yanghaa/collective.gtags.git
+[submodule "src/emc.memberArea"]
+	path = src/emc.memberArea
+	url = git@github.com:yanghaa/emc.memberArea.git
+[submodule "src/emc.kb"]
+	path = src/emc.kb
+	url = git@github.com:yanghaa/emc.kb.git
+[submodule "src/plone.dexterity"]
+	path = src/plone.dexterity
+	url = git@github.com:yanghaa/plone.dexterity.git
+[submodule "src/mockup"]
+	path = src/mockup
+	url = git@github.com:yanghaa/mockup.git

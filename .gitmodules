@@ -37,3 +37,6 @@
 [submodule "src/collective.filepreviewbehavior"]
 	path = src/collective.filepreviewbehavior
 	url = git@github.com:yanghaa/collective.filepreviewbehavior.git
+[submodule "src/plone.app.locales"]
+	path = src/plone.app.locales
+	url = git@github.com:yanghaa/plone.app.locales.git
